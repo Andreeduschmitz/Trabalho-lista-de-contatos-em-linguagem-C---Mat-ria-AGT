@@ -1,5 +1,7 @@
 # Trabalho-lista-de-contatos-em-linguagem-C---Mat-ria-AGT
 
+//este programa foi criado no primeiro semestre do curso, com o intuito de aprender nocoes basicas de manipulacao de vetores em linguagem C//
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
